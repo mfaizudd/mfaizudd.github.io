@@ -2,7 +2,7 @@
 layout: post
 title: "Setsuna F. Seiei"
 tags: sketch anime gundam
-categories: artworks
+categories: artwork
 ---
 
 ![Setsuna F Seiei artwork](/assets/setsuna.jpg)
