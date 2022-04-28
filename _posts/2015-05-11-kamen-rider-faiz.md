@@ -2,6 +2,7 @@
 layout: post
 title: "Kamen Rider Faiz"
 tags: sketch tokusatsu
+categories: artworks
 ---
 
 ![Kamen rider faiz artwork](/assets/faiz.jpg)

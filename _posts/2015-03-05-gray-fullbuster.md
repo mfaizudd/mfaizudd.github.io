@@ -2,6 +2,7 @@
 layout: post
 title: "Gray fullbuster"
 tags: sketch
+categories: artworks
 ---
 
 ![Gray fullbuster artwork](/assets/gray.jpg)

@@ -2,6 +2,7 @@
 layout: post
 title: "Eren Jaeger"
 tags: sketch anime
+categories: artworks
 ---
 
 ![Eren Jaeger artwork](/assets/eren.jpg)
